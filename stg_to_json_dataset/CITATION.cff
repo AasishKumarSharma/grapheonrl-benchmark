@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Standard Task Graph (STG) Dataset with JSON Conversions for Workflow Scheduling in Heterogeneous HPC Systems
+authors:
+  - family-names: Sharma
+    given-names: Aasish Kumar
+    orcid: https://orcid.org/0000-0002-7514-2340
+    affiliation: University of Göttingen
+year: 2026
+license: CC-BY-4.0
+keywords:
+  - workflow scheduling
+  - HPC scheduling
+  - task graph dataset
+  - heterogeneous computing
+  - STG benchmark

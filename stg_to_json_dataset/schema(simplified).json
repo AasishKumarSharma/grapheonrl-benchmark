@@ -1,0 +1,20 @@
+{
+  "workflow": {
+    "meta": {
+      "source": "string",
+      "variant": "homogeneous | heterogeneous",
+      "stg_info": "object",
+      "mapping": "object"
+    },
+    "tasks": {
+      "task_id": {
+        "cores": "int",
+        "memory_required": "MB",
+        "features": ["cpu", "gpu"],
+        "data": "MB",
+        "duration": "float",
+        "dependencies": ["task_id"]
+      }
+    }
+  }
+}
